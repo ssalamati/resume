@@ -1,0 +1,8 @@
+.second {
+  background-color: var(--base);
+  color: whitesmoke;
+}
+.paragraphs {
+  padding: 0 10px;
+  text-align: center;
+}

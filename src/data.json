@@ -1,0 +1,87 @@
+{
+  "title": "Hello I'm Mohammad Salamati!",
+  "subtitle": "Programmer | Front-End Developer | Open Source Enthusiast",
+  "links": {
+    "github": "https://github.com/mohammadsalamati",
+    "stackoverflow": "https://stackoverflow.com/story/mohammadsalamati",
+    "linkedin": "https://www.linkedin.com/in/mohammadsalamati"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Computer Engineering Student at University of Tehran"
+        },
+        {
+          "type": "p",
+          "content": "Expertise in React framework to develop the SPA."
+        },
+        {
+          "type": "p",
+          "content": "Done projects in React and React Native."
+        },
+        {
+          "type": "p",
+          "content": "Working with Redux architecture using complex Object-Oriented concepts."
+        },
+        {
+          "type": "p",
+          "content": "Experience in using React components, Forms, Events, Keys, Router, plus Redux, MobX, Animations and Flux concept."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "icon": "faHtml5",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "faCss3Alt",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "faJs",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "faWordpress",
+            "title": "WordPress"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "faReact",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "faReact",
+            "title": "React Native",
+            "color": "black"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down.png"
+  }
+}

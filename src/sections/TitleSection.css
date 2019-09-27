@@ -1,0 +1,20 @@
+.title-icons-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  margin: 10px;
+  font-size: 10rem;
+}
+
+.title {
+  padding-top: 150px;
+  text-align: center;
+}
+
+.sub-title {
+  text-align: center;
+}

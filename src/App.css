@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  scroll-behavior: smooth;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+h4 {
+  margin: 0;
+  font-size: 20px;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+#snow-target {
+  position: relative;
+  overflow: hidden;
+  _zoom: 1; /* IE 6 display fix */
+}
