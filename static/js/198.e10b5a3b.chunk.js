@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[198],{216:function(e,i,o){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var n=[],a="M275.9 330.7H171.3V480H17V32h109.5v104.5l305.1 85.6V480H275.9z";i.definition={prefix:"fab",iconName:"houzz",icon:[448,512,n,"f27c",a]},i.faHouzz=i.definition,i.prefix="fab",i.iconName="houzz",i.width=448,i.height=512,i.ligatures=n,i.unicode="f27c",i.svgPathData=a}}]);
+//# sourceMappingURL=198.e10b5a3b.chunk.js.map

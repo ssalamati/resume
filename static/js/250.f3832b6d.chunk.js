@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[250],{268:function(e,i,o){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var a=[],n="M0 32h214.6v214.6H0V32zm233.4 0H448v214.6H233.4V32zM0 265.4h214.6V480H0V265.4zm233.4 0H448V480H233.4V265.4z";i.definition={prefix:"fab",iconName:"microsoft",icon:[448,512,a,"f3ca",n]},i.faMicrosoft=i.definition,i.prefix="fab",i.iconName="microsoft",i.width=448,i.height=512,i.ligatures=a,i.unicode="f3ca",i.svgPathData=n}}]);
+//# sourceMappingURL=250.f3832b6d.chunk.js.map

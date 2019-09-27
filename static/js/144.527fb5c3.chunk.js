@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[144],{162:function(e,i,a){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var o=[],n="M0 32v448h448V32H0zm358.4 179.2h-89.6v89.6h-89.6v89.6H89.6V121.6h268.8v89.6z";i.definition={prefix:"fab",iconName:"flipboard",icon:[448,512,o,"f44d",n]},i.faFlipboard=i.definition,i.prefix="fab",i.iconName="flipboard",i.width=448,i.height=512,i.ligatures=o,i.unicode="f44d",i.svgPathData=n}}]);
+//# sourceMappingURL=144.527fb5c3.chunk.js.map

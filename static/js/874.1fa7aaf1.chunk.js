@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[874],{919:function(e,o){throw new Error("Module parse failed: Unexpected token (1:20)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> export const fa500px: IconDefinition;\n| export const faAccessibleIcon: IconDefinition;\n| export const faAccusoft: IconDefinition;")}}]);
+//# sourceMappingURL=874.1fa7aaf1.chunk.js.map

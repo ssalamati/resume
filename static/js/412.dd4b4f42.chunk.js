@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[412],{430:function(e,i,n){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var o=[],a="M0 93.7l183.6-25.3v177.4H0V93.7zm0 324.6l183.6 25.3V268.4H0v149.9zm203.8 28L448 480V268.4H203.8v177.9zm0-380.6v180.1H448V32L203.8 65.7z";i.definition={prefix:"fab",iconName:"windows",icon:[448,512,o,"f17a",a]},i.faWindows=i.definition,i.prefix="fab",i.iconName="windows",i.width=448,i.height=512,i.ligatures=o,i.unicode="f17a",i.svgPathData=a}}]);
+//# sourceMappingURL=412.dd4b4f42.chunk.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[429],{447:function(e,n,i){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a=[],t="M129.5 512V345.9L18.5 48h55.8l81.8 229.7L250.2 0h51.3L180.8 347.8V512h-51.3z";n.definition={prefix:"fab",iconName:"yandex-international",icon:[320,512,a,"f414",t]},n.faYandexInternational=n.definition,n.prefix="fab",n.iconName="yandex-international",n.width=320,n.height=512,n.ligatures=a,n.unicode="f414",n.svgPathData=t}}]);
+//# sourceMappingURL=429.4cb778b7.chunk.js.map

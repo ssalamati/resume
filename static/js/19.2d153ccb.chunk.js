@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[19],{37:function(e,i,a){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var n=[],o="M185.7 268.1h76.2l-38.1-91.6-38.1 91.6zM223.8 32L16 106.4l31.8 275.7 176 97.9 176-97.9 31.8-275.7zM354 373.8h-48.6l-26.2-65.4H168.6l-26.2 65.4H93.7L223.8 81.5z";i.definition={prefix:"fab",iconName:"angular",icon:[448,512,n,"f420",o]},i.faAngular=i.definition,i.prefix="fab",i.iconName="angular",i.width=448,i.height=512,i.ligatures=n,i.unicode="f420",i.svgPathData=o}}]);
+//# sourceMappingURL=19.2d153ccb.chunk.js.map

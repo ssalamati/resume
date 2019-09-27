@@ -1,0 +1,2 @@
+(window.webpackJsonpresume=window.webpackJsonpresume||[]).push([[172],{190:function(e,i,t){"use strict";Object.defineProperty(i,"__esModule",{value:!0});var n=[],a="M66.4 322.5H16V0h50.4v322.5zM166.9 76.1h-50.4V512h50.4V76.1zm100.6 0h-50.4V512h50.4V76.1zM368 76h-50.4v247H368V76z";i.definition={prefix:"fab",iconName:"gitter",icon:[384,512,n,"f426",a]},i.faGitter=i.definition,i.prefix="fab",i.iconName="gitter",i.width=384,i.height=512,i.ligatures=n,i.unicode="f426",i.svgPathData=a}}]);
+//# sourceMappingURL=172.17287701.chunk.js.map
