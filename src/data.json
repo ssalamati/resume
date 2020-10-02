@@ -1,0 +1,79 @@
+{
+  "title": "Hello I'm Mohammad Salamati!",
+  "subtitle": "Programmer • Full Stack Dev • Open Source Enthusiast • Ninja",
+  "links": {
+    "github": "https://github.com/msalamati",
+    "stackoverflow": "https://stackoverflow.com/story/msalamati",
+    "linkedin": "https://www.linkedin.com/in/msalamati",
+    "instagram": "mailto:salamati77@gmail.com"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Student at University of Tehran"
+        },
+        {
+          "type": "p",
+          "content": "Software Engineer at Divar"
+        },
+        {
+          "type": "p",
+          "content": "A Full Stack Developer who specializes in JavaScript Technologies across the whole stack (Node.js, Express, React, React Native). Experience building complete web applications with backend API Systems."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "icon": "javascript",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "react",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "react",
+            "title": "React Native"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "nodejs",
+            "title": "Node.js"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "python",
+            "title": "Python"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "django",
+            "title": "Django"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "images/down.png"
+  }
+}
